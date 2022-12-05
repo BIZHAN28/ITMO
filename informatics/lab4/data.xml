@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <group>P3106</group>
+    <tuesday>
+        <lesson_1>
+            <lesson>ИНФОРМАТИКА(ЛЕК)</lesson>
+            <time>08:20-09:50</time>
+            <audience>АКТОВЫЙ ЗАЛ</audience>
+            <place>ул.Ломоносова, д.9, лит. М</place>
+            <weeks>3, 7, 9, 11, 13, 15, 17</weeks>
+            <teacher>Балакшин Павел Валерьевич</teacher>
+        </lesson_1>
+        <lesson_2>
+            <lesson>ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛЕК)</lesson>
+            <time>10:00-11:30</time>
+            <audience>АКТОВЫЙ ЗАЛ</audience>
+            <place>ул.Ломоносова, д.9, лит. М</place>
+            <weeks>3, 7, 9, 11, 13, 15, 17</weeks>
+            <teacher>Клименков Сергей Викторович</teacher>
+        </lesson_2>
+        <lesson_3>
+            <lesson>ПРОГРАММИРОВАНИЕ(ЛЕК)</lesson>
+            <time>11:40 - 13:10</time>
+            <audience>1223 АУД.</audience>
+            <place>ул.Ломоносова, д.9, лит. М</place>
+            <weeks>3, 7, 9, 11, 13, 15, 17</weeks>
+            <teacher>Письмак Алексей Евгеньевич</teacher>
+        </lesson_3>
+    </tuesday>
+</root>
